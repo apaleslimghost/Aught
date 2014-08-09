@@ -1,0 +1,23 @@
+{
+  "name": "aught",
+  "version": "0.0.0",
+  "description": "Require flippin' anything",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarterto/Aught.git"
+  },
+  "keywords": [
+    "require",
+    "require.extensions"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com> (http://blog.153.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/Aught/issues"
+  },
+  "homepage": "https://github.com/quarterto/Aught"
+}
