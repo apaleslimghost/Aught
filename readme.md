@@ -1,4 +1,4 @@
-# Aught
+# Aught [![Build Status](https://travis-ci.org/quarterto/Aught.svg)](https://travis-ci.org/quarterto/Aught)
 
 Just require it.
 
